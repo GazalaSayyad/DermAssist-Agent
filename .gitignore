@@ -2,3 +2,4 @@
 .env
 deploy_steps.txt
 old_code
+app/.env
