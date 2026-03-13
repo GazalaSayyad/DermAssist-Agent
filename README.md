@@ -255,10 +255,7 @@ gcloud services enable \
 ### 4. Deploy to Cloud Run (source-based)
 
 ```bash
-gcloud run deploy my-agent-service \
-  --source ./app \
-  --region us-central1 \
-  --allow-unauthenticated
+gcloud run deploy my-agent-service --source ./app --region us-central1
 ```
 
 ### 5. Check logs
