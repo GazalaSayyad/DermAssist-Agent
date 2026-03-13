@@ -1,0 +1,4 @@
+*.pyc
+.env
+deploy_steps.txt
+old_code
